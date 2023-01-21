@@ -75,3 +75,8 @@ Nest is [MIT licensed](LICENSE).
 ## Useful commands
 
 - Generate new module/controller/service: nest g resource name-resource
+
+## Useful libs
+
+- class-validator
+- class-transformer
