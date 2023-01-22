@@ -15,7 +15,7 @@ export class TweetsService {
   }
 
   findAll() {
-    return `This action returns all tweets`;
+    return this.tweetModel.findAll();
   }
 
   findOne(id: number) {
